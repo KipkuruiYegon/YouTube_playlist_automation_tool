@@ -1,4 +1,4 @@
-## YouTube Playlist Automation Tool
+# YouTube Playlist Automation Tool
 
 This project is a web-based tool designed to help YouTubers organize their channels efficiently. It identifies videos that haven't been added to any playlists and suggests new playlist names based on video filenames.
 
